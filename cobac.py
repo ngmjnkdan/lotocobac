@@ -4,7 +4,7 @@ while True:
 		print('Số bạn đoán hơi nhỏ,chọn số khác đi 🙏')
 	elif i < 100:
 		print('Đoán gần đúng rồi cố lên 🧠')
-	elif i = 100:
+	elif i == 100:
 		print("Chúc mừng bạn đã đoán trúng ✅")
 		break
 	else:
